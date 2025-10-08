@@ -1,0 +1,27 @@
+# Build and utility scripts
+*.py
+*.sh
+*.txt
+
+# Backup and debug files
+*.b64
+*.log
+
+# Old/non-localized HTML files
+rail-banking-partners.html
+rail-blog.html
+rail-company.html
+rail-contact.html
+rail-how-it-works.html
+rail-payment-clients.html
+rail-io.html
+rail-standalone.html
+index.html
+navigation.html
+
+# Old assets folder
+rail-assets/
+
+# Loose image files
+mask-group*.png
+*.min.js
